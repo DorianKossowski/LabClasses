@@ -1,3 +1,3 @@
 # LabClasses
 
-C++ univesity labs
+C++ university labs
