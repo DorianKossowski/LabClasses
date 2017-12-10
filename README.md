@@ -1,6 +1,6 @@
 # LabClasses
 
-C++ university labs
+C++ university labs 
 
 1-7   Procedural Programming
 rest  Object-Oriented Programming
